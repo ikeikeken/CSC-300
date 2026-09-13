@@ -7,6 +7,10 @@ import java.io.IOException;
 
 public class Main
 {
+    static String removeBlanks(String input)
+    {
+        return input.replaceAll("\\s+","");
+    }
     public static void main (String[] args) throws IOException
     {
         Scanner keyboard = new Scanner(System.in);
@@ -24,15 +28,25 @@ public class Main
 
         FileWriter fw = new FileWriter(fileName, true);
         PrintWriter outputWriter = new PrintWriter(fw);
-
+        String[] sline = new String[100];
+        // don't forget to return an int with the number of lines read in.
         Scanner inputReader = new Scanner(inputFile);
         String line;
+        int lineCount = 0;
         while (inputReader.hasNext())
         {
-            line = inputReader.nextLine();
-            System.out.printf("%s\n", line);
-            outputWriter.printf("%s\n", line); //rights to file
+            sline[lineCount] = inputReader.nextLine();
+            //System.out.printf("COMING IN\n");
+           // System.out.printf("%s\n", sline[lineCount]); //to see screen. remember to comment out
+
+            sline[lineCount] = removeBlanks(sline[lineCount]);
+            //System.out.printf("COMING OUT\n");
+            //System.out.printf("%s\n", sline[lineCount]); //to see screen. remember to comment out
+            outputWriter.printf("%s\n", sline[lineCount]); //rights to file
+            lineCount++;
         }
+
+        System.out.printf("Line(s) counted: %d\n",lineCount);
 
         //no touchy
         inputReader.close();
