@@ -17,7 +17,6 @@ public class Main
     static Scanner createFileScanner(String inputFileName) throws IOException
     {
         File inputFile = new File(inputFileName);
-
         if (!inputFile.exists())
         {
             System.out.printf("File %s is not found\n", inputFileName);
