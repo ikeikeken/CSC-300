@@ -1,0 +1,68 @@
+Pollee 1 Record
+The ranking for cause Environment: is 2
+The ranking for cause War and Peace: is 7
+The ranking for cause Economy: is 7
+The ranking for cause Education: is 9
+The ranking for cause Infrastructure: is 2
+
+Pollee 2 Record
+The ranking for cause Environment: is 4
+The ranking for cause War and Peace: is 8
+The ranking for cause Economy: is 5
+The ranking for cause Education: is 1
+The ranking for cause Infrastructure: is 2
+
+Pollee 3 Record
+The ranking for cause Environment: is 9
+The ranking for cause War and Peace: is 9
+The ranking for cause Economy: is 3
+The ranking for cause Education: is 2
+The ranking for cause Infrastructure: is 10
+
+Pollee 4 Record
+The ranking for cause Environment: is 5
+The ranking for cause War and Peace: is 4
+The ranking for cause Economy: is 1
+The ranking for cause Education: is 2
+The ranking for cause Infrastructure: is 9
+
+Pollee 5 Record
+The ranking for cause Environment: is 10
+The ranking for cause War and Peace: is 9
+The ranking for cause Economy: is 8
+The ranking for cause Education: is 10
+The ranking for cause Infrastructure: is 7
+
+Pollee 6 Record
+The ranking for cause Environment: is 9
+The ranking for cause War and Peace: is 3
+The ranking for cause Economy: is 8
+The ranking for cause Education: is 2
+The ranking for cause Infrastructure: is 3
+
+Pollee 7 Record
+The ranking for cause Environment: is 5
+The ranking for cause War and Peace: is 5
+The ranking for cause Economy: is 7
+The ranking for cause Education: is 4
+The ranking for cause Infrastructure: is 4
+
+Pollee 8 Record
+The ranking for cause Environment: is 10
+The ranking for cause War and Peace: is 5
+The ranking for cause Economy: is 10
+The ranking for cause Education: is 2
+The ranking for cause Infrastructure: is 5
+
+Polling Results
+Cause                           Polled Person                 Average
+                        1    2    3    4    5    6    7    8
+Environment             2    4    9    5   10    9    5   10        6.75
+War and Peace           7    8    9    4    9    3    5    5        6.25
+Economy                 7    5    3    1    8    8    7   10        6.13
+Education               9    1    2    2   10    2    4    2        4.00
+Infrastructure          2    2   10    9    7    3    4    5        5.25
+
+The cause Environment with an average rating of 6.75 is the highest rated cause
+
+The cause Education with an average rating of 4.00 is the lowest rated cause
