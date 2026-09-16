@@ -1,0 +1,74 @@
+Beheshti University's Community Of Advisors and Their Students
+Students advised by Mohsen Beheshti of the Computer Science Department
+Adhikari,Bishal with ID number 1000 is in the Freshman class and has the major Computer Science
+Briseno,Cesar with ID number 1005 is in the Sophomore class and has the major Computer Science
+Franco Flores,Roberto with ID number 1010 is in the Freshman class and has the major Spanish
+Lopez,Francisco Javier with ID number 1015 is in the Sophomore class and has the major Kinesology
+Perez,Cindy Ordorica with ID number 1020 is in the Freshman class and has the major Political Science
+Torres,Eduardo with ID number 1025 is in the Freshman class and has the major Applied Math
+
+Students advised by Joseph Conrad of the English Department
+Adhikari Subedi,Jamuna with ID number 1001 is in the Sophomore class and has the major Anthropology
+Cherenet,Natnael with ID number 1006 is in the Junior class and has the major Mathematics
+Galindo,Yesenia Del Carmen with ID number 1011 is in the Junior class and has the major English
+Lucas,Brandon Gregory with ID number 1016 is in the Junior class and has the major Computer Science
+Quiloan,Richard Ryan Samera with ID number 1021 is in the Junior class and has the major History
+Xu,Bryan C with ID number 1026 is in the Junior class and has the major History
+
+Students advised by Isaac Newton of the Physical Sciences Department
+Arcos,Anthony with ID number 1002 is in the Junior class and has the major Chemistry
+Chisholm,Melissa Arevalo-Garcia with ID number 1007 is in the Senior class and has the major Data Science
+Garcia Morales,Benjamin Fernando with ID number 1012 is in the Sophomore class and has the major Computer Science
+Manriquez,Christophoer with ID number 1017 is in the Senior class and has the major Homeland Security
+Reynoso,Lissette Azucena with ID number 1022 is in the Sophomore class and has the major AI Computing
+
+Students advised by Alexander Hamilton of the Economcs Department
+Arellano,Jasmine Lee with ID number 1003 is in the Senior class and has the major Biology
+Comon,Samuel with ID number 1008 is in the Freshman class and has the major Physics
+Gregg,Christophoer Warren with ID number 1013 is in the Freshman class and has the major Information Science
+Morales,Edgar with ID number 1018 is in the Junior class and has the major Data Analysis
+Rivera Mata,Ramon with ID number 1023 is in the Freshman class and has the major Quantum Programming
+
+Students advised by Dougla MacArthur of the Military Hisory Department
+Bahena,Edgar with ID number 1004 is in the Senior class and has the major Geography
+Fernandez,Alexandro R with ID number 1009 is in the Senior class and has the major Music
+Lieber,Derek James with ID number 1014 is in the Sophomore class and has the major Network Security
+Pandey,Surendra with ID number 1019 is in the Sophomore class and has the major Geology
+Sosa,Erik Armando with ID number 1024 is in the Senior class and has the major Environmental Science
+
+Beheshti University's List Of Students By Year
+FRESHMAN STUDENTS
+Adhikari,Bishal with ID number 1000 is in the Freshman class and has the major Computer Science
+Comon,Samuel with ID number 1008 is in the Freshman class and has the major Physics
+Franco Flores,Roberto with ID number 1010 is in the Freshman class and has the major Spanish
+Gregg,Christophoer Warren with ID number 1013 is in the Freshman class and has the major Information Science
+Perez,Cindy Ordorica with ID number 1020 is in the Freshman class and has the major Political Science
+Rivera Mata,Ramon with ID number 1023 is in the Freshman class and has the major Quantum Programming
+Torres,Eduardo with ID number 1025 is in the Freshman class and has the major Applied Math
+
+SOPHOMORE STUDENTS
+Adhikari Subedi,Jamuna with ID number 1001 is in the Sophomore class and has the major Anthropology
+Briseno,Cesar with ID number 1005 is in the Sophomore class and has the major Computer Science
+Garcia Morales,Benjamin Fernando with ID number 1012 is in the Sophomore class and has the major Computer Science
+Lieber,Derek James with ID number 1014 is in the Sophomore class and has the major Network Security
+Lopez,Francisco Javier with ID number 1015 is in the Sophomore class and has the major Kinesology
+Pandey,Surendra with ID number 1019 is in the Sophomore class and has the major Geology
+Reynoso,Lissette Azucena with ID number 1022 is in the Sophomore class and has the major AI Computing
+
+JUNIOR STUDENTS
+Arcos,Anthony with ID number 1002 is in the Junior class and has the major Chemistry
+Cherenet,Natnael with ID number 1006 is in the Junior class and has the major Mathematics
+Galindo,Yesenia Del Carmen with ID number 1011 is in the Junior class and has the major English
+Lucas,Brandon Gregory with ID number 1016 is in the Junior class and has the major Computer Science
+Morales,Edgar with ID number 1018 is in the Junior class and has the major Data Analysis
+Quiloan,Richard Ryan Samera with ID number 1021 is in the Junior class and has the major History
+Xu,Bryan C with ID number 1026 is in the Junior class and has the major History
+
+SENIOR STUDENTS
+Arellano,Jasmine Lee with ID number 1003 is in the Senior class and has the major Biology
+Bahena,Edgar with ID number 1004 is in the Senior class and has the major Geography
+Chisholm,Melissa Arevalo-Garcia with ID number 1007 is in the Senior class and has the major Data Science
+Fernandez,Alexandro R with ID number 1009 is in the Senior class and has the major Music
+Manriquez,Christophoer with ID number 1017 is in the Senior class and has the major Homeland Security
+Sosa,Erik Armando with ID number 1024 is in the Senior class and has the major Environmental Science
+
