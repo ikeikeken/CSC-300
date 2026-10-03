@@ -1,0 +1,90 @@
+Adhikari,Bishal
+Freshman
+Computer Science
+Adhikari Subedi,Jamuna
+Sophomore
+Anthropology
+Arcos,Anthony
+Junior
+Chemistry
+Arellano,Jasmine Lee
+Senior
+Biology
+Bahena,Edgar
+Senior
+Geography
+Briseno,Cesar
+Sophomore
+Computer Science
+Cherenet,Natnael
+Junior
+Mathematics
+Chisholm,Melissa Arevalo-Garcia
+Senior
+Data Science
+Comon,Samuel
+Freshman
+Physics
+Fernandez,Alexandro R
+Senior
+Music
+Bill Too Young
+Kindergarten
+Play Dough
+Franco Flores,Roberto
+Freshman
+Spanish
+Galindo,Yesenia Del Carmen
+Junior
+English
+Garcia Morales,Benjamin Fernando
+Sophomore
+Computer Science
+Gregg,Christophoer Warren
+Freshman
+Information Science
+Smart Guy
+Graduate Student
+Network Security
+Lieber,Derek James
+Sophomore
+Network Security
+Lopez,Francisco Javier
+Sophomore
+Kinesology
+Lucas,Brandon Gregory
+Junior
+Computer Science
+Manriquez,Christophoer
+Senior
+Homeland Security
+Morales,Edgar
+Junior
+Data Analysis
+Pandey,Surendra
+Sophomore
+Geology
+Perez,Cindy Ordorica
+Freshman
+Political Science
+Quiloan,Richard Ryan Samera
+Junior
+History
+Smarter Student
+PHD Candidate
+Quantum Physica
+Reynoso,Lissette Azucena
+Sophomore
+AI Computing
+Rivera Mata,Ramon
+Freshman
+Quantum Programming
+Sosa,Erik Armando
+Senior
+Environmental Science
+Torres,Eduardo
+Freshman
+Applied Math
+Xu,Bryan C
+Junior
+History
