@@ -1,3 +1,6 @@
+//Kenny Huynh
+//CSC-300
+
 import java.util.Scanner;
 
 public class DailySpecials
@@ -6,6 +9,7 @@ public class DailySpecials
     {
         Sun, Mon, Tue, Wed, Thur, Fri, Sat
     };
+
 
     public static void main(String [] args)
     {

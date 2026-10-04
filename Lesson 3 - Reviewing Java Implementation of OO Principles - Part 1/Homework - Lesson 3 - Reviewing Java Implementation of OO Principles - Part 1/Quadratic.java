@@ -1,3 +1,6 @@
+//Kenny Huynh
+//CSC-300
+
 public class Quadratic
 {
     private int a;
